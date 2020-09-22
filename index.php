@@ -13,20 +13,19 @@
   <title>effekt</title>
   <link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/51819b9fe4b03000ce6f03ea/1397468947522-8YU4E750PIJ9WVU9O4GZ/ke17ZwdGBToddI8pDm48kNjpXgdB2GQ4GXsvq_1og8aoCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8Wp6_MLhNeL9yWw1amyLjdgohmCNS_LeH4t9qD0d_SmSPc_VumPslpQQgM4-VHAcYf4g/favicon.ico" />
   <link rel="canonical" href="index.html" />
-  <meta property="og:site_name" content="effekt" />
-  <meta property="og:title" content="effekt" />
-  <meta property="og:url" content="index.html" />
-  <meta property="og:type" content="website" />
-  <meta property="og:description" content="EFFEKT is a Copenhagen-based office practicing in the fields of modern architecture, design and visionary urban development and planning." />
-  <meta itemprop="name" content="effekt" />
-  <meta itemprop="url" content="index.html" />
-  <meta itemprop="description" content="EFFEKT is a Copenhagen-based office practicing in the fields of modern architecture, design and visionary urban development and planning." />
-  <meta name="twitter:title" content="effekt" />
-  <meta name="twitter:url" content="index.html" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="EFFEKT is a Copenhagen-based office practicing in the fields of modern architecture, design and visionary urban development and planning." />
-  <meta name="description" content="EFFEKT is a Copenhagen-based office practicing in the fields of modern 
-architecture, design and visionary urban development and planning." />
+ 
+  <style>
+    .btn-group.show{
+      position: relative;
+    }
+    .dropdown-menu{
+      display: none;
+    }
+    .dropdown-menu.show{
+      position: absolute;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script type="text/javascript" src="../use.typekit.net/ik/aExgfEi1KudHrl2PCCwHpjXPK7-pVMnblJk5MXkA9RMfeGvIfFHN4UJLFRbh52jhWD9U52IojR8cZQsKw2w3w2gRZQZcw2F8jsnKMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0ZAZ"></script>
   <script type="text/javascript">
     try {
@@ -558,20 +557,11 @@ architecture, design and visionary urban development and planning." />
 </head>
 
 <body id="collection-59f10dc91f318dc4a4211a4f" class="product-list-titles-overlay product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light product-list-titles-overlay product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center native-currency-code-usd collection-type-index collection-layout-default collection-59f10dc91f318dc4a4211a4f homepage view-list">
-
   <header class="site-header">
-
-
     <nav class="site-nav">
       <div class="logo-container">
-
-
         <a class="logo" href="index.html" data-content-field="site-title">
-
-
           effekt
-
-
         </a>
 
       </div>
@@ -580,34 +570,27 @@ architecture, design and visionary urban development and planning." />
 
         <!-- Desktop  Nav -->
         <ul class="main-nav">
-
-
-
+          <li>
+            <div class="btn-group show">
+              <button class="btn btn-secondary btn-lg dropdown-toggle" style="border: 1px solid #fff;background:none">
+                <img class=" lazyloaded" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-vietnam_1f1fb-1f1f3.png" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-vietnam_1f1fb-1f1f3.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-vietnam_1f1fb-1f1f3.png 2x" alt="Flag: Vietnam on Twitter " width="30" height="60" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-vietnam_1f1fb-1f1f3.png 2x">
+              </button>
+              <div class="dropdown-menu" x-placement="bottom-start" style="position: absolute; transform: translate3d(0px, 48px, 0px); top: 0px; left: 0px; will-change: transform;">
+                <a class="dropdown-item" href=""><img class=" lazyloaded" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-vietnam_1f1fb-1f1f3.png" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-vietnam_1f1fb-1f1f3.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-vietnam_1f1fb-1f1f3.png 2x" alt="Flag: Vietnam on Twitter " width="30" height="60" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-vietnam_1f1fb-1f1f3.png 2x">
+</a>
+                <a class="dropdown-item" href=""><img class=" lazyloaded" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png 2x" alt="Flag: England on Twitter " width="30" height="60" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png 2x"></a>
+              </div>
+            </div>
+          </li>
           <li>
             <a href="news.html">News</a>
           </li>
-
-
-
-
-
           <li>
             <a href="work.html">Work</a>
           </li>
-
-
-
-
-
           <li>
             <a href="office.html">Office</a>
           </li>
-
-
-
-
-
-
         </ul>
 
         <!-- Mobile  Trigger -->
@@ -616,68 +599,27 @@ architecture, design and visionary urban development and planning." />
             <div class="hamburger-inner"></div>
           </div>
         </div>
-
-
-
       </div>
     </nav>
-
     <div class="mobile-nav-wrapper uk-modal-full" uk-modal>
       <ul class="mobile-nav">
-
-
-
         <li>
           <a href="news.html">News</a>
         </li>
-
-
-
-
-
         <li>
           <a href="work.html">Work</a>
         </li>
-
-
-
-
-
         <li>
           <a href="office.html">Office</a>
         </li>
-
-
-
-
-
-
       </ul>
     </div>
-
-
-
-
     <nav class="trans-nav">
       <div class="trans-nav-wrapper">
-
-
-
-
-
         <ul class="anchor-nav">
-
-
-
-
-
         </ul>
-
-
       </div>
     </nav>
-
-
   </header>
 
 
@@ -777,8 +719,6 @@ architecture, design and visionary urban development and planning." />
       </svg>
     </a>
   </div>
-
-
   <footer class="site-footer">
     <div class="footer-content">
       <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer" data-type="block-field" data-updated-on="1530174401636" id="footer">
@@ -791,9 +731,6 @@ architecture, design and visionary urban development and planning." />
             </div>
             <div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_80_1508967373173_6221">
               <div class="sqs-block-content">
-
-
-
                 <div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-small social-icons-style-regular ">
                   <nav class="sqs-svg-icon--list">
                     <a href="http://www.linkedin.com/company/effekt" target="_blank" class="sqs-svg-icon--wrapper linkedin" aria-label="Mikkel Bøgh">
@@ -875,6 +812,11 @@ architecture, design and visionary urban development and planning." />
       <path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
     </symbol>
   </svg>
+  <script>
+    $(document).on('click','.dropdown-toggle',function(){
+      $('.dropdown-menu').toggle();
+    })
+  </script>
 </body>
 
 
