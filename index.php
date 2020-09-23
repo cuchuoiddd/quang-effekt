@@ -572,7 +572,7 @@
         <ul class="main-nav">
           <li>
             <div class="btn-group show">
-              <button class="btn btn-secondary btn-lg dropdown-toggle" style="border: 1px solid #fff;background:none">
+              <button class="btn btn-secondary btn-lg dropdown-toggle" style="border: none;background:none">
                 <img class=" lazyloaded" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-vietnam_1f1fb-1f1f3.png" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/flag-vietnam_1f1fb-1f1f3.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-vietnam_1f1fb-1f1f3.png 2x" alt="Flag: Vietnam on Twitter " width="30" height="60" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-vietnam_1f1fb-1f1f3.png 2x">
               </button>
               <div class="dropdown-menu" x-placement="bottom-start" style="position: absolute; transform: translate3d(0px, 48px, 0px); top: 0px; left: 0px; will-change: transform;">
@@ -817,6 +817,31 @@
       $('.dropdown-menu').toggle();
     })
   </script>
+
+  
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v8.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="104351897844467">
+      </div>
 </body>
 
 
